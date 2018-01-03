@@ -1,4 +1,4 @@
-# Disrupt Campus Grenoble
+# Disrupt Campus Grenoble Alpes
 
 [logo]: http://disrupt-campus.univ-grenoble-alpes.fr/uas/DISRUPT/LOGO/logo_disrupt_1511.svg "Logo"
 

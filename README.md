@@ -8,4 +8,4 @@ Web site : <http://disrupt-campus.univ-grenoble-alpes.fr>
 
 ## Ressources
 * [Livre blanc Révolution digitale : Un nouveau rôle pour les acteurs du numérique ?](https://syntec-numerique.fr/sites/default/files/Documents/livre-blanc-innovation-technologies-revolution-digitale-syntec-numerique.PDF)
-* [BPI France](http://www.bpifrance.fr/Recherche/(text)/disrupt-campus-28911)
+* [BPI France](http://www.bpifrance.fr/Recherche/(text)/disrupt%20campus)
